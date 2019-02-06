@@ -25,6 +25,7 @@
 			</activation>
 			<properties>
 				<spring-javaformat.version>0.0.6</spring-javaformat.version>
+				<disable.checks>true</disable.checks>
 			</properties>
 			<build>
 				<plugins>
